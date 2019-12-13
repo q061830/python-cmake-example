@@ -19,6 +19,9 @@
 * git
 
 ## 安裝CMAKE
+### Windows
+待補充
+
 ### Linux
 #### Ubuntu / Debian / Raspbian
 終端機輸入
